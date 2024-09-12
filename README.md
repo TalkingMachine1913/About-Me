@@ -1,2 +1,2 @@
-# CPTS101_2024
+# Hello
 To learn how to use Git &amp; GitHub
